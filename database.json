@@ -1,0 +1,134 @@
+{
+  "usuarios": [
+    {
+      "username": "juan",
+      "email": null,
+      "pass1": "$2a$10$NoelzT4B6qlBdkoF0rep0Op5he6s9dZAt4U8poe1bsYPLMd48G/Q2",
+      "nombre": null,
+      "avatar": null,
+      "id": 3
+    },
+    {
+      "username": "manu",
+      "email": null,
+      "pass1": "$2a$10$IlWBggldnrukiT/qhBwhZOOO1R8gExxPBDddk.EJnnvyUt5h9mRaq",
+      "nombre": null,
+      "avatar": null,
+      "id": 4
+    },
+    {
+      "username": "hola",
+      "email": null,
+      "pass1": "$2a$10$0K7eCUYNsKEFOrAT1iplX.bd8Y.S5JaGerNxxRrwdiwvpxo7Pdlta",
+      "nombre": null,
+      "avatar": null,
+      "id": 5
+    },
+    {
+      "username": "manuel",
+      "email": null,
+      "pass1": "$2a$10$XUaApPWTb8534MW9uRaHOupqHAxHBldVay73ykQ8wW/X7k5/k.lRu",
+      "nombre": null,
+      "avatar": null,
+      "id": 6
+    },
+    {
+      "username": "roberto",
+      "email": null,
+      "pass1": "$2a$10$KAYVGojvTkuiXvCg74b9vOyAOIE/qDFhz2sEnW0gu2uR2OHifmrdC",
+      "nombre": null,
+      "avatar": null,
+      "id": 7
+    },
+    {
+      "username": "prueba",
+      "email": null,
+      "pass1": "$2a$10$aK/n80dA8q.ho8jXK78uo.VqN5MK3nf9loDzo4r04GxzY88ONgg/O",
+      "nombre": null,
+      "avatar": null,
+      "id": 8
+    },
+    {
+      "username": "pedro",
+      "email": null,
+      "pass1": "$2a$10$FOxVD.rZvD0uY0W4.RY9juLXx.kVHJXD.cSju..nGq94I5DVkK96S",
+      "nombre": null,
+      "avatar": null,
+      "id": 9
+    },
+    {
+      "username": "juanillo",
+      "email": null,
+      "pass1": "$2a$10$68NqGm7rij2GlotyW2w7RutYffEAzy.5NGZODA4Zv6tSXXW6XexjK",
+      "nombre": null,
+      "avatar": null,
+      "id": 10
+    },
+    {
+      "username": "otro",
+      "email": null,
+      "pass1": "$2a$10$RgaL5LwGLDXivsTic2X9xu.QpTIBNCNXc9mJt.gBjAY9oG/pvmQHu",
+      "nombre": null,
+      "avatar": null,
+      "id": 11
+    },
+    {
+      "username": "prudencio",
+      "email": null,
+      "pass1": "$2a$10$c6p8GQBxt43vN1hUracMKea7XO.y5FfXLZewkKpLKPaEwhy3nHlki",
+      "nombre": null,
+      "avatar": null,
+      "id": 12
+    }
+  ],
+  "vendehumos": [
+    {
+      "id": 1,
+      "titulo": "Primer vende humos",
+      "descripcion": "Descripción del vende humos",
+      "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
+      "fechaCreacion": "06/10/2021",
+      "usuarioId": 6
+    },
+    {
+      "id": 2,
+      "titulo": "Segundo vende humos",
+      "descripcion": "Descripción del vende humos",
+      "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
+      "fechaCreacion": "06/10/2021",
+      "usuarioId": 6
+    },
+    {
+      "titulo": "titulo",
+      "descripcion": "hola",
+      "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
+      "fechaCreacion": "6/10/2021",
+      "creador": 6,
+      "id": 3
+    },
+    {
+      "titulo": "Avatar la pelicula",
+      "descripcion": "descripcion de avatar la pelicula",
+      "imagen": "https://th.bing.com/th/id/R.4c308f5ce78c6526f444cd2b4dac3700?rik=JJgtG1O2S0iVQg&pid=ImgRaw&r=0",
+      "fechaCreacion": "6/10/2021",
+      "creador": 6,
+      "id": 4
+    },
+    {
+      "titulo": "nuevo vende humos de prueba",
+      "descripcion": "la descripcion de prueba de este vendehumos me la estoy inventando",
+      "imagen": "https://th.bing.com/th/id/R.d4e49fe7cca6465123eb8ff09e213da1?rik=ohTdBiIKS6l2dQ&riu=http%3a%2f%2fzincapital.com%2fwp-content%2fuploads%2f2016%2f06%2fimagen-de-banco-820x626.jpg&ehk=5ZryNGA8SnHi8cydz39N6z8wRzCZ6xxPEsonTtTlj90%3d&risl=&pid=ImgRaw&r=0",
+      "fechaCreacion": "6/10/2021",
+      "creador": 6,
+      "id": 5
+    },
+    {
+      "titulo": "crado por hola",
+      "descripcion": "hola",
+      "imagen": "hola",
+      "fechaCreacion": "6/10/2021",
+      "creador": 11,
+      "id": 6
+    }
+  ]
+}
