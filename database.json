@@ -26,10 +26,10 @@
     },
     {
       "username": "manuel",
-      "email": null,
+      "email": "hola@gmail.com",
       "pass1": "$2a$10$XUaApPWTb8534MW9uRaHOupqHAxHBldVay73ykQ8wW/X7k5/k.lRu",
-      "nombre": null,
-      "avatar": null,
+      "nombre": "manuel victoria sanmartin",
+      "avatar": "https://akns-images.eonline.com/eol_images/Entire_Site/2017210/rs_600x600-170310083229-600.avatar-1.31017.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
       "id": 6
     },
     {
@@ -53,7 +53,7 @@
       "email": null,
       "pass1": "$2a$10$FOxVD.rZvD0uY0W4.RY9juLXx.kVHJXD.cSju..nGq94I5DVkK96S",
       "nombre": null,
-      "avatar": null,
+      "avatar": "https://images.freeimages.com/images/large-previews/1cb/close-squirrel-1381764.jpg",
       "id": 9
     },
     {
@@ -79,6 +79,14 @@
       "nombre": null,
       "avatar": null,
       "id": 12
+    },
+    {
+      "username": "r",
+      "email": "hola@gmail.com",
+      "pass1": "$2a$10$5ziHVfnj6Q0vN6qbmP1skOSc3bKhYKc2PfVV95DaDiVOmD/SBgNQy",
+      "nombre": "manuel",
+      "avatar": "https://media.istockphoto.com/photos/very-small-chipmunk-picture-id485509551?s=612x612",
+      "id": 13
     }
   ],
   "vendehumos": [
@@ -88,7 +96,8 @@
       "descripcion": "Descripción del vende humos",
       "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
       "fechaCreacion": "06/10/2021",
-      "usuarioId": 6
+      "usuarioId": 6,
+      "votos": 59
     },
     {
       "id": 2,
@@ -96,7 +105,8 @@
       "descripcion": "Descripción del vende humos",
       "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
       "fechaCreacion": "06/10/2021",
-      "usuarioId": 6
+      "usuarioId": 6,
+      "votos": 64
     },
     {
       "titulo": "titulo",
@@ -104,7 +114,8 @@
       "imagen": "https://www.pngarts.com/files/3/Avatar-PNG-Download-Image.png",
       "fechaCreacion": "6/10/2021",
       "creador": 6,
-      "id": 3
+      "id": 3,
+      "votos": 48
     },
     {
       "titulo": "Avatar la pelicula",
@@ -112,7 +123,8 @@
       "imagen": "https://th.bing.com/th/id/R.4c308f5ce78c6526f444cd2b4dac3700?rik=JJgtG1O2S0iVQg&pid=ImgRaw&r=0",
       "fechaCreacion": "6/10/2021",
       "creador": 6,
-      "id": 4
+      "id": 4,
+      "votos": 50
     },
     {
       "titulo": "nuevo vende humos de prueba",
@@ -120,15 +132,112 @@
       "imagen": "https://th.bing.com/th/id/R.d4e49fe7cca6465123eb8ff09e213da1?rik=ohTdBiIKS6l2dQ&riu=http%3a%2f%2fzincapital.com%2fwp-content%2fuploads%2f2016%2f06%2fimagen-de-banco-820x626.jpg&ehk=5ZryNGA8SnHi8cydz39N6z8wRzCZ6xxPEsonTtTlj90%3d&risl=&pid=ImgRaw&r=0",
       "fechaCreacion": "6/10/2021",
       "creador": 6,
+      "id": 5,
+      "votos": 49
+    },
+    {
+      "titulo": "vende humos nuevo",
+      "descripcion": "descripcion de prueba",
+      "imagen": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-man-avatar-icon-professional-man-character-business-man-avatar-carton-symbol-png-image_3669490.jpg",
+      "fechaCreacion": "7/10/2021",
+      "usuarioId": 6,
+      "votos": 8,
+      "id": 6
+    },
+    {
+      "titulo": "vende humos sin votos",
+      "descripcion": "descripcion del vendehumos sin votos",
+      "imagen": "https://images.freeimages.com/images/large-previews/7bc/bald-eagle-1-1400106.jpg",
+      "fechaCreacion": "7/10/2021",
+      "usuarioId": 6,
+      "votos": 4,
+      "id": 7
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "usuarioId": 6,
+      "comentario": "prueba de comentarios",
+      "vendehumoId": 1
+    },
+    {
+      "comentario": "me gusta el post",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 2
+    },
+    {
+      "comentario": "otro comentario mas",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 3
+    },
+    {
+      "comentario": "fasefasdf",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 4
+    },
+    {
+      "comentario": "sdafd",
+      "usuarioId": 6,
+      "vendehumoId": 1,
       "id": 5
     },
     {
-      "titulo": "crado por hola",
-      "descripcion": "hola",
-      "imagen": "hola",
-      "fechaCreacion": "6/10/2021",
-      "creador": 11,
+      "comentario": "asdfasdf",
+      "usuarioId": 6,
+      "vendehumoId": 1,
       "id": 6
+    },
+    {
+      "comentario": "hola que tal",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 7
+    },
+    {
+      "comentario": "me gusta",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 8
+    },
+    {
+      "comentario": "nuevo",
+      "usuarioId": 6,
+      "vendehumoId": 1,
+      "id": 9
+    },
+    {
+      "comentario": "primer comentario",
+      "usuarioId": 6,
+      "vendehumoId": 2,
+      "id": 10
+    },
+    {
+      "comentario": "segundo comentario",
+      "usuarioId": 6,
+      "vendehumoId": 2,
+      "id": 11
+    },
+    {
+      "comentario": "me gusta el post",
+      "usuarioId": 6,
+      "vendehumoId": 2,
+      "id": 12
+    },
+    {
+      "comentario": "hola que tal",
+      "usuarioId": 6,
+      "vendehumoId": 7,
+      "id": 13
+    },
+    {
+      "comentario": "estoy haciendo comentarios de prueba",
+      "usuarioId": 6,
+      "vendehumoId": 7,
+      "id": 14
     }
   ]
 }
